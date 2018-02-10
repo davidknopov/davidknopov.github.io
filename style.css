@@ -7,3 +7,30 @@ body{
 	border-color: black;
 	background-color:  #FFDDC8;
 }
+
+.Study
+{
+	font-family: Arial;
+	border-style: solid;
+	border-color: black;
+}
+
+.Study2
+{
+	font-family: Arial;
+	border-style: groove;
+	border-color: black;
+}
+
+.Title
+{
+	font-size: 18px;
+	font-weight: bold;
+}
+
+
+.Name
+{
+	font-size: large;
+	font-weight: bolder;
+}
