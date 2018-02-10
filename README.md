@@ -35,5 +35,11 @@ I also created an index.html for my cs website at tufts so that it would
 redirect to my github.io page.
 
 
+2.Time it took me : 5 hours
+
+3.Collaborated with: Myself
+
+4.All aspects of the project work as they should.
+
 
 
